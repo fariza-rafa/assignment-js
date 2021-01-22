@@ -59,7 +59,6 @@ function megaFriend(friends){
                 mega = friend;
             }
         }
-  
        return mega;
     }
 }
